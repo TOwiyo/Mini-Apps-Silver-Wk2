@@ -15,3 +15,4 @@ This is a simple React application that integrates **Redux** for state managemen
 1. Clone the repository:
    ```bash
    git clone https://github.com/TOwiyo/Mini-Apps-Silver-Wk2.git
+2. To visit the site use this link https://towiyo.github.io/Mini-Apps-Silver-Wk2/
